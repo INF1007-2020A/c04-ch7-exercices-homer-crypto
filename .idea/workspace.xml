@@ -37,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../c04-ch6-exercices-homer-crypto/exercice.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../L06_TP2-l06-17" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -73,12 +73,12 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6a527ad2-6f91-445e-9e4c-db345f7df3c9" name="Default Changelist" comment="" />
-      <changelist id="dbcdbc78-0be1-4e31-8222-079102e6cb1f" name="New changelist" comment="" />
       <created>1602024126562</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602024126562</updated>
       <workItem from="1602024127670" duration="3553000" />
+      <workItem from="1602194140981" duration="603000" />
     </task>
     <servers />
   </component>
@@ -94,10 +94,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="274" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1602026858118" />
-    <state x="500" y="205" key="FileChooserDialogImpl" timestamp="1602025646437">
+    <state x="500" y="205" key="FileChooserDialogImpl" timestamp="1602194743033">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="500" y="205" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1602025646437" />
+    <state x="500" y="205" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1602194743033" />
     <state width="1397" height="291" key="GridCell.Tab.0.bottom" timestamp="1602031443433">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
